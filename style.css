@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+.lista-lavori{
+    list-style-type: none;
+}
+
+button {
+    width:150px;
+}
+
+/* .lista-cert{
+     width:50%; 
+    margin:auto;
+} */
+
+.card-link{
+    text-decoration: none;
+}
